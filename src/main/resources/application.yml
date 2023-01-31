@@ -1,0 +1,16 @@
+server:
+  port: 2121
+
+spring:
+  messages:
+    basename: lang/messages
+    encoding: UTF-8
+  jpa:
+    show-sql: true
+
+#spring:
+#  security:
+#    user:
+#      name: user
+#      password: 12345
+#      roles: USER
